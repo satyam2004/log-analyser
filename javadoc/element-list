@@ -1,0 +1,9 @@
+com.github.satyam2004.loganalyser
+com.github.satyam2004.loganalyser.conf
+com.github.satyam2004.loganalyser.manager
+com.github.satyam2004.loganalyser.model
+com.github.satyam2004.loganalyser.model.persistence
+com.github.satyam2004.loganalyser.repository
+com.github.satyam2004.loganalyser.service
+com.github.satyam2004.loganalyser.utilities
+com.github.satyam2004.loganalyser.validator
